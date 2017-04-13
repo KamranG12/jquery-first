@@ -64,37 +64,12 @@
     display: none;
 }
 
-.img2{
-    width: 33.3333%;
-    height: 100%;
-    position: absolute;
-    left: 33.3333%;
-    top: 0;
-    display: none;
-}
-
-.img3{
-    width: 33.3333%;
-    height: 100%;
-    position: absolute;
-    left: 33.3333%;
-    top: 0;
-    display: none;
-}
-
-.img4{
-    width: 33.3333%;
-    height: 100%;
-    position: absolute;
-    left: 33.3333%;
-    top: 0;
-    display: none;
-}
 
 .btn-group{
     position: absolute;
     top: 91%;
     left: 29%;
+    z-index: 1000;
 }
 
 .btn-group button{
