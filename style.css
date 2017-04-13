@@ -11,7 +11,7 @@
 }
 
 .content1{
-    width: 33.3333%;
+    width: 66.6666%;
     height: 100%;
     position: absolute;
     left: 0;
@@ -20,7 +20,7 @@
 }
 
 .content2{
-    width: 33.3333%;
+    width: 66.6666%;
     height: 100%;
     position: absolute;
     left: 1500px;
@@ -29,7 +29,7 @@
 }
 
 .content3{
-    width: 33.3333%;
+    width: 66.6666%;
     height: 100%;
     position: absolute;
     left: 1500px;
@@ -38,7 +38,7 @@
 }
 
 .content4{
-    width: 33.3333%;
+    width: 66.6666%;
     height: 100%;
     position: absolute;
     left: 1500px;
@@ -48,18 +48,18 @@
 
 .word{
     position: absolute;
-    width: 76%;
+    width: 35%;
     height: 30%;
     top: 35%;
-    left: 12%;
+    left: 8%;
     color: white;
 }
 
 .img1{
-    width: 33.3333%;
+    width: 50%;
     height: 100%;
     position: absolute;
-    left: 33.3333%;
+    left: 50%;
     top: 0;
     display: none;
 }
